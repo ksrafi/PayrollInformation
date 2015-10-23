@@ -1,0 +1,24 @@
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.exe.config
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.exe
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.pdb
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.dll
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformation.pdb
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.xml
+C:\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.csprojResolveAssemblyReference.cache
+C:\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.exe
+C:\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.pdb
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformation.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.exe.config
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.exe
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.pdb
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.exe
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformationUI.pdb
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.SqlServer.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformation.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\PayrollInformation.pdb
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.xml
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\bin\Debug\EntityFramework.SqlServer.xml
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformationUI\obj\Debug\PayrollInformationUI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\PayrollInformationTests.dll
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\PayrollInformationTests.pdb
+C:\Projects\PayrollInformation\PayrollInformationTests\obj\Debug\PayrollInformationTests.csprojResolveAssemblyReference.cache
+C:\Projects\PayrollInformation\PayrollInformationTests\obj\Debug\PayrollInformationTests.dll
+C:\Projects\PayrollInformation\PayrollInformationTests\obj\Debug\PayrollInformationTests.pdb
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\PayrollInformation.dll
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\EntityFramework.dll
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\PayrollInformation.pdb
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\EntityFramework.xml
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\PayrollInformationTests.dll.config
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PayrollInformation\PayrollInformationTests\bin\Debug\EntityFramework.SqlServer.xml

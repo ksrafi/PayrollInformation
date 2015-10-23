@@ -1,0 +1,20 @@
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.pdb
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.dll
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.xml
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.pdb
+C:\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.csprojResolveAssemblyReference.cache
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.dll.config
+C:\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.dll
+C:\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.dll.config
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\PayrollInformation.pdb
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.SqlServer.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.xml
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\bin\Debug\EntityFramework.SqlServer.xml
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.csprojResolveAssemblyReference.cache
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.dll
+\\manfs001\home$\Kanwar.Rafi\Visual Studio 2013\Projects\PayrollInformation\PayrollInformation\obj\Debug\PayrollInformation.pdb
